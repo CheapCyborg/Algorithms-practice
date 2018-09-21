@@ -1,0 +1,7 @@
+C:\Users\damia\source\repos\Reverse String\Reverse String\bin\Debug\Reverse String.exe.config
+C:\Users\damia\source\repos\Reverse String\Reverse String\bin\Debug\Reverse String.exe
+C:\Users\damia\source\repos\Reverse String\Reverse String\bin\Debug\Reverse String.pdb
+C:\Users\damia\source\repos\Reverse String\Reverse String\obj\Debug\Reverse String.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Reverse String\Reverse String\obj\Debug\Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Reverse String\Reverse String\obj\Debug\Reverse String.exe
+C:\Users\damia\source\repos\Reverse String\Reverse String\obj\Debug\Reverse String.pdb
